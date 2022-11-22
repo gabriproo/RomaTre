@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int pp = 0, a, b = -1;
+    int a, b = -1, pp = 0;
 
     do {
         printf("Inserisci numero: ");
